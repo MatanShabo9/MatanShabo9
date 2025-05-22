@@ -1,6 +1,7 @@
-## Hi I'm Matan Shabo 👋
+## h1 align="center">Hi 👋, I'm Matan Shabo</h1>
 
-**Software Developer | B.Sc Computer Science**
+**<h3 align="center">Software Developer | B.Sc Computer Science</h3>**
+
 
 📫 How to reach me: matan9402215@gmail.com
 
