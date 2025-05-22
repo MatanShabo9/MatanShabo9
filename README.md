@@ -11,7 +11,6 @@ Connect with me:
 Languages and Tools:
 ## 🛠️ Languages and Tools:
 
-## 🛠️ Languages and Tools:
 <p align="left">
   <!-- שורה 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
