@@ -7,11 +7,7 @@
 
 Connect with me:
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/omer-cohen-123456](https://www.linkedin.com/in/matan-shabo-54601a320/)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-</p>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/matan-shabo-54601a320/))
 
 
 
