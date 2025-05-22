@@ -1,4 +1,4 @@
-## h1 align="center">Hi 👋, I'm Matan Shabo</h1> ##
+##<h1 align="center">Hi 👋, I'm Matan Shabo</h1>
 
 **<h3 align="center">Software Developer | B.Sc Computer Science</h3>**
 
